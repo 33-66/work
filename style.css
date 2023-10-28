@@ -8,6 +8,7 @@ h1{
 #image-container {
     display:block;
     background-color: burlywood; 
+    text-align: center;
 }
 
 .image-wrapper {
