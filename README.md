@@ -9,7 +9,7 @@ some of the technologies I used in this application are;
 - java script
 
 #### How to run the project
-click on the link below
+click on the link below  https://inspiring-bubblegum-f54bb3.netlify.app
 
 #####  How to use the PIXELAPP
 - No Registration Required: The app is simple to use and does not require user registration or passwords.
