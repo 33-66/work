@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color: blue;
+}
+
+#image-container {
+    display:block;
+    background-color: burlywood; 
+}
+
+.image-wrapper {
+    width: auto; 
+    margin: auto; 
+    box-sizing: border-box;
+    background-color: brown; 
+    padding: 10px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 50%; 
+    height: auto; 
+    justify-self: auto; 
+}
