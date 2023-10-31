@@ -1,7 +1,7 @@
 # PIXELAPP
 ## DESCRIPTION
 This is an app that generates high quality images that users can zoom in to have a better look .
-
+- it was written and modified by Simon Nganga
 ### TECHNOLOGIES USED
 some of the technologies I used in this application are;
 - HTML  
